@@ -1,6 +1,3 @@
-Certainly! Below is the entire README.md content that you can use for your project.
-
-```markdown
 # Customer Conversion Analysis for Online Shopping Using Clickstream Data
 
 ## Project Overview
@@ -69,7 +66,7 @@ The repository contains the following files:
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
+- [Mohamed Afrith S](https://github.com/mhdafrith)
 
 ## License
 
